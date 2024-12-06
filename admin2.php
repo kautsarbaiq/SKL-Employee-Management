@@ -208,7 +208,7 @@
                 <div class="section__content section__content--p30">
                     <div class="container-fluid">
                         <div class="header-wrap">
-                            <h1>ABSENBOS</h1>
+                            <h1>Employee Management</h1>
                         </div>
                     </div>
                 </div>
@@ -220,7 +220,7 @@
                 <div class="section__content section__content--p30">
                     <div class="container-fluid">
                         <div class="row">
-                            <strong class="col-md-12" style="margin-top: 5rem;">Selamat datang admin ABSENBOS</strong>
+                            <strong class="col-md-12" style="margin-top: 5rem;">Welcome to employee management BOS</strong>
                         </div>
                     </div>
                 </div>

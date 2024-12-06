@@ -12,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ABSENBOS</title>
+    <title>Employee Management</title>
     <link rel="icon" href="img/Fevicon.png" type="image/png">
 
     <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
@@ -27,7 +27,7 @@
 
   <body>
     <div style="gap: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: white; width: 100vw; height: 100vh;">
-      <h1 style="color: black; font-weight: bold;">ABSENBOS</h1>
+      <h1 style="color: black; font-weight: bold;">Employee Management</h1>
 
       <div style="display: flex; flex-direction: column; justify-content: left; gap: 10px;">
         <a href="login.php" target="_blank"><button class="btn btn-warning" style="size: 50px;">Login Admin</button></a>
